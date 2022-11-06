@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = Vijay-Developers
+	email = itzvijaykumar7888@outlook.com
+[remote "origin"]
+	url = 
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "orgiin"]
+	url = https://github.com/Vijaykumar7888/Vijay-Developer.git
+	fetch = +refs/heads/*:refs/remotes/orgiin/*
+[remote "Vijay"]
+	url = https://github.com/Vijaykumar7888/Vijay-Developer.git
+	fetch = +refs/heads/*:refs/remotes/Vijay/*
